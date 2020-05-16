@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to right, green, lightgreen);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+textarea{
+    border-radius: 10px;
+    border: none;
+    height: 400px;
+    width: 550px;
+}
+
+output{
+    display: flex;
+    width: 100%;
+    unicode-bidi: inherit;
+}
